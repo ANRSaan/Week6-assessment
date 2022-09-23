@@ -13,6 +13,7 @@ const chooseHeader = document.querySelector('#choose-header')
 const yourDuoHeader = document.querySelector('#your-duo-header')
 const compDuoHeader = document.querySelector('#comp-duo-header')
 
+
 let choices = []
 let compDuo = []
 let playerDuo = []
