@@ -7,7 +7,6 @@ function shuffleArray(array) {
     return arrCopy
 }
 
-console.log(shuffleArray([1,2,3,4,5]))
 module.exports = {
     shuffleArray
 }
